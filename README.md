@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @nstksean
-- 👀 I’m interested in weight training and insect/Entomology.
-- 🌱 I’m currently learning html/css/javascript some F2E stuff.
-- 📫 How to reach me nstk.gm@gmail.com.
+### Hi, I'm Sean 👋
+
+Software engineer. My path so far:
+
+🏭 Industrial PC (2.5 yrs) → 🔬 Optoelectronics (0.5 yr) → 🤖 AI (now)
+
+- 🌱 Currently building AI-powered products — TypeScript / Next.js / LLM apps
+- 🏋️ Weight training & 🐛 insects/entomology when off the keyboard
+- 📫 nstk.gm@gmail.com
 
 <!---
 nstksean/nstksean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
