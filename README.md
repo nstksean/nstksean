@@ -2,7 +2,7 @@
 
 Frontend engineer, ~4 yrs. I build real-time web UIs — monitoring consoles, dashboards, AI platforms.
 
-🖥️ Web agency (2022) → 🏭 Industrial PC + AI vision platform (2023–2025) → ⚡ Power-monitoring dashboards (now)
+🖥️ Web agency (2022) → 🔬 Optoelectronics (2023, 6 mo) → 🏭 Industrial PC + AI vision platform (2023–2025) → ⚡ Power-monitoring dashboards (now)
 
 **Stack** — React 18 · Next.js (App Router) · TypeScript · Zustand · TailwindCSS · Vite · WebSocket · Sencha (ExtJS)
 
