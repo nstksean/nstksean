@@ -2,9 +2,9 @@
 
 Frontend engineer, ~4 yrs. Real-time B2B consoles and dashboards — plus a consumer-facing AI product I ship to real users.
 
-🖥️ Web agency (2022) → 🔬 Optoelectronics (2023, 6 mo) → 🏭 Industrial PC + AI vision platform (2023–2025) → ⚡ Power-monitoring dashboards (now)
+🖥️ Web agency (2022) → 🔬 Optoelectronics (2023, 6 mo) → 🏭 Industrial PC + AI vision platform (2023–2025) → ⚡ Power-monitoring dashboards (2025) → 🎙️ AI news audio + voice products at Nowcast / VoAI (now)
 
-**Stack** — React 18/19 · Next.js 15 (App Router) · TypeScript · Zustand · TailwindCSS · Vite · WebSocket · GTM/GA4 · Sencha (ExtJS)
+**Stack** — React 18/19 · Next.js 15 (App Router) · TypeScript · Zustand/Redux · TailwindCSS · Vite · Vitest/Playwright · WebSocket · GTM/GA4 · Sencha (ExtJS)
 
 What that usually means day to day:
 
